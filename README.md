@@ -4,4 +4,4 @@ Scratch Codes is an attempt to collect and archive totally random and fun script
 
 ## 💻 Current Languages
 Currently, only confined to Python, will definitely expand in the future. 😉
-* #### [Python](https://github.com/raj-patra/scratch-codes/tree/master/Python)
+* [Python](https://github.com/raj-patra/scratch-codes/tree/master/Python)
