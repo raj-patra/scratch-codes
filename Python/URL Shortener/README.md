@@ -3,7 +3,7 @@ You already know what this script is all about isn't it?
 
 ### Usage
 ```
-cd URL Shortner
+cd Python/URL Shortner
 py tinify.py <some long url>
 
 # prints tinyurl link

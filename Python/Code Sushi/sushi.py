@@ -1,11 +1,16 @@
 __author__ = "github.com/raj-patra"
 
 from tkinter import *
-import random
-import string
+import random, string, time
+
+start = time.time()
 
 def display(text):
     def loop():
+        global start
+        if (time.time()-start) > 10:
+            start = time.time()
+            text.delete('1.0', END)
         text.insert(CURRENT, ''.join(random.choice(string.printable)))
         text.after(1, loop)
 
