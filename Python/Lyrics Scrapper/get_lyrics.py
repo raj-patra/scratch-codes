@@ -1,3 +1,5 @@
+__author__ = "github.com/raj-patra"
+
 import requests
 import argparse
 from bs4 import BeautifulSoup
