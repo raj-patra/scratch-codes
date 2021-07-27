@@ -8,6 +8,7 @@ Boot it up and pretend you are a hacker ;)
 ### Usage
 ```
 cd Python/Code Sushi
-pip install tkinter
+pip install -r requirements.txt
+
 py sushi.py
 ```

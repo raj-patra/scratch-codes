@@ -5,7 +5,7 @@ Just run this script and it will keep on moving the mouse and clicking it for yo
 ### Usage
 ```
 cd Python/Sleep Daemon
-pip install pyautogui
+pip install -r requirements.txt
 
 py no_sleep.py
 
