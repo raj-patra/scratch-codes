@@ -1,5 +1,4 @@
-__author__ = "Raj Patra"
-__date__ = "26-07-2021"
+__author__ = "github.com/raj-patra"
 
 from tkinter import *
 import random

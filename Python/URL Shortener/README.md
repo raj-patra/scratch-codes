@@ -1,4 +1,4 @@
-## URL Shortner
+## URL Shortener
 You already know what this script is all about isn't it?
 
 ### Usage
