@@ -1,3 +1,6 @@
+__author__ = "Raj Patra"
+__date__ = "26-07-2021"
+
 from tkinter import *
 import random
 import string
