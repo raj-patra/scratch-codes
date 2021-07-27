@@ -1,3 +1,4 @@
+#!/usr/bin/python
 __author__ = "github.com/raj-patra"
 
 from tkinter import *
