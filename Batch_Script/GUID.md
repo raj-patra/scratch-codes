@@ -1,7 +1,8 @@
 ### Windows 10 CLSID Keys (GUID) 
 
+A CLSID is a globally unique identifier that identifies a COM class object.
+ 
 When ran in CMD with `explorer Shell:::{CLSID here}` it opens the folder/app associated with it
-
 
 | APP                                                                 | CLSID (GUID)                                                                          |
 |---------------------------------------------------------------------|---------------------------------------------------------------------------------------|
