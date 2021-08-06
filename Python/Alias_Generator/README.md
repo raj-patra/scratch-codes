@@ -3,7 +3,7 @@ This script helps you generate an alias/username.
 
 ### Usage
 ```
-cd Python/Alias Generator
+cd Python/Alias_Generator
 py aka.py
 
 # prints a random alias

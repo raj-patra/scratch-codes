@@ -3,7 +3,7 @@ You already know what this script is all about isn't it?
 
 ### Usage
 ```
-cd Python/Lyrics Scrapper
+cd Python/Lyrics_Scrapper
 pip install -r requirements.txt
 py get_lyrics.py --artist <artist_name> --song <song_name>
 

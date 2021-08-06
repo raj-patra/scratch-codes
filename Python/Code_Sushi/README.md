@@ -7,7 +7,7 @@ Boot it up and pretend you are a hacker ;)
 
 ### Usage
 ```
-cd Python/Code Sushi
+cd Python/Code_Sushi
 pip install -r requirements.txt
 
 py sushi.py
