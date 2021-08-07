@@ -1,6 +1,6 @@
-### Microsoft Store Apps
+### Windows 10 Native Apps
 
-List of Commands to Open Microsoft Store Apps in Windows 10.
+List of Commands to Open Native Apps in Windows 10.
 
 When ran in CMD with `start app_id` it opens the app associated with it
 
