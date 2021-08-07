@@ -4,8 +4,8 @@ echo Ping measures the round-trip time for messages sent from the originating ho
 
 :a
 echo.
-set /p id="Enter domain to ping: "
+set /p domain="Enter domain to ping: "
 echo.
-ping %id%
+ping %domain%
 
 goto a
