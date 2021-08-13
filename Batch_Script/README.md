@@ -6,6 +6,7 @@ Archiving a collection of simple windows batch files.
 ### Available Scripts
 
 * __All Apps__ - Opens a folder with all the installed apps.
+* __CMD Admin__ - Runs CMD as administrator.
 * __Delete Temporary Files__ - Deletes Temporary files in %TEMP% directory.
 * __DNS Flush__ - Flushes and removes any DNS Cache for better net connectivity.
 * __All Drivers__ - Lists out all the installed drivers.
