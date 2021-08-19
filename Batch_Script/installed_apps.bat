@@ -1,0 +1,1 @@
+start cmd /k wmic product get name,version
