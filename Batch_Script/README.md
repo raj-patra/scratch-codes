@@ -9,6 +9,7 @@ Archiving a collection of simple windows batch files.
 * __CMD Admin__ - Runs CMD as administrator.
 * __Delete Temporary Files__ - Deletes Temporary files in %TEMP% directory.
 * __DNS Flush__ - Flushes and removes any DNS Cache for better net connectivity.
+* __Device Management__ - Opens Device Manager.
 * __All Drivers__ - Lists out all the installed drivers.
 * __Environment variables__ - Lists out all the environment variables.
 * __God Mode__ - Creates the God mode folder with all system settings.
