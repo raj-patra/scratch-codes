@@ -11,9 +11,14 @@ def search_wiki(ping_query, gist_query, page_query, lang='en'):
         if ping_query:
             topics = wikipedia.search(ping_query)
             response["topics"] = {"query": ping_query, "data": topics}
+
         if gist_query:
             gist = wikipedia.summary(gist_query)
             response["summary"] = {"query": gist_query, "data": gist}
+
+        if page_query:
+            page = wikipedia.page(page_query)
+            response["page"] = {"query": page_query, "data": {"title": page.title, "url": page.url, "summary": page.summary, "section": page.content}}
 
         print(response)
     except Exception as e:
@@ -29,11 +34,8 @@ if __name__ == "__main__":
 
     args = my_parser.parse_args()
     
-    ping = args.ping
-    gist = args.gist
-    page = args.page
-    lang = args.lang
-    
+    ping, gist, page, lang = args.ping, args.gist, args.page, args.lang
+
     if lang:
         search_wiki(ping, gist, page, lang)
     else:
