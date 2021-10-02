@@ -10,3 +10,4 @@ Scratch Codes is an attempt to collect and archive totally random and fun script
 Currently, the archive is restricted to fewer scripting languages, will definitely expand in the future. 😉
 * [Python](https://github.com/raj-patra/scratch-codes/tree/master/Python)
 * [Batch](https://github.com/raj-patra/scratch-codes/tree/master/Batch_Script)
+* [Javascript](https://github.com/raj-patra/scratch-codes/tree/master/Javascript)
