@@ -12,3 +12,4 @@
 * [Sleep_Daemon](https://github.com/raj-patra/scratch-codes/tree/master/Python/Sleep_Daemon)
 * [URL_Shortener](https://github.com/raj-patra/scratch-codes/tree/master/Python/URL_Shortener)
 * [Wiki_Scrapper](https://github.com/raj-patra/scratch-codes/tree/master/Python/Wiki_Scrapper)
+* [Cartoonify](https://github.com/raj-patra/scratch-codes/tree/master/Python/Cartoonify)
